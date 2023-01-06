@@ -1,0 +1,11 @@
+.dockerignore
+.gitignore
+Dockerfile
+config/.env
+**/*.md
+
+# Folders
+.git/
+.github/
+.cache/
+tmp/
